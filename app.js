@@ -1,1 +1,1 @@
-this is JS file.
+//this is JS file.
